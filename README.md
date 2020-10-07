@@ -16,6 +16,6 @@ I'm Jiayuan Yao, a postdoc of Seismologist at Nanyang Technological University.
 
 ### Documents
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=link&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/repeating-earthquake)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=link&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/link)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=blog&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/repeating-earthquake)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=blog&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/blog)
