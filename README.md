@@ -7,9 +7,7 @@ I'm Jiayuan Yao, a postdoc of Seismologist at Nanyang Technological University.
 
 ### Open Source Softwares
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=repeating-earthquake&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/repeating-earthquake)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=SeisCC&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/SeisCC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=repeating-earthquake&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/repeating-earthquake) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=SeisCC&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/SeisCC)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=SOD.recipes&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/SOD.recipes)
 
