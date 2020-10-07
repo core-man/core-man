@@ -11,7 +11,7 @@ I'm Jiayuan Yao, a postdoc of Seismologist at Nanyang Technological University.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=SeisCC&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/SeisCC)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=SOD.recipes&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/SOD.recipes)
+
 
 
 ### Documents
