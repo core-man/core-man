@@ -2,7 +2,7 @@
 
 I'm Jiayuan Yao, a postdoc of Seismologist at Nanyang Technological University.
 
-[![core-man's github stats](https://github-readme-stats.vercel.app/api?username=core-man&show_icons=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![core-man's GitHub Stats](https://github-readme-stats.vercel.app/api?username=core-man&show_icons=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Open Source Softwares
@@ -11,7 +11,7 @@ I'm Jiayuan Yao, a postdoc of Seismologist at Nanyang Technological University.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=SeisCC&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/SeisCC)
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=SOD.recipes&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/core-man/SOD.recipes)
 
 
 ### Documents
