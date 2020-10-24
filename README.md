@@ -15,8 +15,8 @@ I'm Jiayuan Yao, a postdoc of Seismologist at Nanyang Technological University.
 
 ### Documents
 
-<a href="https://github.com/core-man/link">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=core-man&repo=link&show_icons=true&theme=algolia&hide_border=true&show_owner=true)" />
+<a href="https://github.com/seisman/SeisLinks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seisman&repo=SeisLinks&show_icons=true&theme=algolia&hide_border=true&show_owner=true)" />
 </a>
 
 <a href="https://github.com/core-man/blog">
