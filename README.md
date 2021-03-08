@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jiayuan Yao, a postdoc of Seismologist at Nanyang Technological University.
+I'm Yao Jiayuan, a postdoc of Seismologist at Nanyang Technological University.
 
 [![core-man's GitHub Stats](https://github-readme-stats.vercel.app/api?username=core-man&show_icons=true&theme=algolia&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
