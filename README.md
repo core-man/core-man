@@ -12,7 +12,7 @@ I'm Yao Jiayuan, a postdoc of Seismology at Nanyang Technological University.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GenericMappingTools&repo=pygmt&show_icons=true&theme=algolia&hide_border=true&show_owner=true)](https://github.com/GenericMappingTools/pygmt)
 
-### Documents
+### Documentations
 
 <a href="https://github.com/seismo-learn/seismology101">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seismo-learn&repo=seismology101&show_icons=true&theme=algolia&hide_border=true&show_owner=true)" />
